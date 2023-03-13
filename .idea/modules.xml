@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayMethodDemo/ArrayMethodDemo.iml" filepath="$PROJECT_DIR$/ArrayMethodDemo/ArrayMethodDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Baseball Game/Baseball Game.iml" filepath="$PROJECT_DIR$/Baseball Game/Baseball Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Candle.java/Candle.java.iml" filepath="$PROJECT_DIR$/Candle.java/Candle.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Car Care Choice/Car Care Choice.iml" filepath="$PROJECT_DIR$/Car Care Choice/Car Care Choice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Die/Die.iml" filepath="$PROJECT_DIR$/Die/Die.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Distance from average copy/Distance from average copy.iml" filepath="$PROJECT_DIR$/Distance from average copy/Distance from average copy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FiveDice/FiveDice.iml" filepath="$PROJECT_DIR$/FiveDice/FiveDice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Horse/Horse.iml" filepath="$PROJECT_DIR$/Horse/Horse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IntelliJ.iml" filepath="$PROJECT_DIR$/.idea/IntelliJ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NineInts/NineInts.iml" filepath="$PROJECT_DIR$/NineInts/NineInts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tee Shirt/Tee Shirt.iml" filepath="$PROJECT_DIR$/Tee Shirt/Tee Shirt.iml" />
+    </modules>
+  </component>
+</project>
